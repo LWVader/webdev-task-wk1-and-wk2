@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    background-color: greenyellow;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+  line-height: 1.6;
+}
