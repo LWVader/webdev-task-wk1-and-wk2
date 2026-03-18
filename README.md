@@ -33,9 +33,9 @@ To view the project locally, you can either open the project files in your code 
 
 ## Week 2 Tasks
 
-- [ ] Link the css file `css/style.css` in your `index.html` file. Remember to use relative paths.
-- [ ] Inside `css/style.css`, use css selectors to style your content in `index.html`
-- [ ] Push your changes to your fork on GitHub and turn in.
+- [x] Link the css file `css/style.css` in your `index.html` file. Remember to use relative paths.
+- [x] Inside `css/style.css`, use css selectors to style your content in `index.html`
+- [x] Push your changes to your fork on GitHub and turn in.
 
 ## Submitting Your Work
 
